@@ -8,7 +8,7 @@ Content and code for the book "Artificial General Intelligence: The Essentials".
 
 
 ## Content
-- [The Purpose: AGI-powered Self-Sustainable Abundance](part-00-purpose/purpose.md)
+- [The Purpose: AGI-powered Self-Sustainable Abundance](part-00-purpose/00-the-purpose.md)
 - Foundations
     - Programming Languages
       - Python & Libraries 101
