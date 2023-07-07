@@ -7,11 +7,11 @@ __Title: Artificial General Intelligence: The Essentials | Author: Constantine G
 2. Governments that focus on creating a minimal set of regulations will have an accelerating advantage 
 3. over others with extensive & inefficient sets of regulations, or ban individual R&D outright. 
 3. The winning societies will be AGI empowered and their relationships with AGI will largely depend on the current set of values and systems.
-4. The optimal outcome for Human societies is value driven AGI Empowered Self-Sustainable Autonomous Abundance.
+4. The optimal outcome for Human societies is value driven AGI-powered Self-Sustainable Autonomous Abundance.
 
 
 
-# [Draft] Purpose: AI Empowered Self-Sustainable Autonomous Abundance
+# [Draft] Purpose: AGI-powered Self-Sustainable Autonomous Abundance
 
 ## Exponential progress
 As humans, we are hardwired to think linearly and our intuition fails us when we reason about technology 
