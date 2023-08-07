@@ -4,8 +4,7 @@ __Title: Artificial General Intelligence: The Essentials | Author: Constantine G
 
 # [Draft] TL;DR:
 1. AGI is closer than people think and it is inevitable.
-2. Governments that focus on creating a minimal set of regulations will have an accelerating advantage 
-3. over others with extensive & inefficient sets of regulations, or ban individual R&D outright. 
+2. Governments that focus on creating a minimal set of regulations will have an accelerating advantage over others with extensive & inefficient sets of regulations, or ban individual R&D outright. 
 3. The winning societies will be AGI empowered and their relationships with AGI will largely depend on the current set of values and systems.
 4. The optimal outcome for Human societies is value driven AGI-powered Self-Sustainable Autonomous Abundance.
 
@@ -35,18 +34,13 @@ In 2012 Alexnet scored 63.3% Top-1 on ImageNet simply predicting the content of 
 and provide an answer surpassing 90% of law professionals on the BAR exam.
 
 Make a projection: 
-What capability of AI systems we will have in 3 years?
+What capability of AI systems will we have in 3 years?
 
-Context: In 2012, Alexnet achieved a Top-1 score of 63.3% on ImageNet, correctly predicting 
-the content of an image approximately 6 out of 10 times. By 2023, AI systems with a combination of 
-Large Vision Models (LVMs) and Large Language Models (LLMs) have the capability to analyze complex video streams and 
-answer questions on a variety of topics, with accuracy above the human average on many economically valuable topics. 
-For example, answer legal the US BAR exam questions with accuracy surpassing 90% of law professionals.
+Context: In 2012, Alexnet achieved a Top-1 score of 63.3% on ImageNet by correctly predicting 
+the image content approximately 6 out of 10 times. Currently in 2023, Large Vision Models (LVMs) in combination with Large Language Models (LLMs) have the capability to analyze complex video streams and answer questions on a variety of topics. These models produce a degree of accuracy far above the average human professional in many economically valuable areas.
+For example, these models can answer legal questions on the US BAR exam with accuracy surpassing 90% of law graduates.
 
-Task: Based on the outlined progression of AI advancements, formulate a projection for 
-the capabilities that we might anticipate AI systems to possess in the coming 7 years (by 2030).
-
-
+Task: Based on the outlined progression of AI advancements, formulate a projection of the capabilities we may anticipate over the next 7 years, by 2030.
 
 
 ## The destiny of our Universe is to become intelligent 
