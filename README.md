@@ -48,12 +48,16 @@ Content and code for the book "Artificial General Intelligence: The Essentials".
   - C++
 
 ## Setup
+
+### Local Version
 ```
 mkdir ~/venvs
-python3 -m venv ~/venvs/aisystemarchitecture
-. ~/venvs/aisystemarchitecture/bin/activate
+python3 -m venv ~/venvs/agi-the-essentials
+. ~/venvs/agi-the-essentials/bin/activate
 pip install -r requirements.txt
 ```
+
+### Docker Version
 
 ---
 ## References
